@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/g2i-trivia-app/static/css/main.0ced13f0.css",
+    "main.js": "/g2i-trivia-app/static/js/main.ec6c6530.js",
+    "static/js/787.9c73c628.chunk.js": "/g2i-trivia-app/static/js/787.9c73c628.chunk.js",
+    "static/media/press-start-2p-all-400-normal.woff": "/g2i-trivia-app/static/media/press-start-2p-all-400-normal.1b4eaa5b3861e49b57fc.woff",
+    "static/media/press-start-2p-latin-400-normal.woff2": "/g2i-trivia-app/static/media/press-start-2p-latin-400-normal.26606132347682ad49c1.woff2",
+    "static/media/press-start-2p-latin-ext-400-normal.woff2": "/g2i-trivia-app/static/media/press-start-2p-latin-ext-400-normal.9438133bc9cbb5e83823.woff2",
+    "static/media/press-start-2p-cyrillic-400-normal.woff2": "/g2i-trivia-app/static/media/press-start-2p-cyrillic-400-normal.d7b2f2eaee058acd512e.woff2",
+    "static/media/press-start-2p-cyrillic-ext-400-normal.woff2": "/g2i-trivia-app/static/media/press-start-2p-cyrillic-ext-400-normal.3f07e4fb28b05927ecf1.woff2",
+    "static/media/press-start-2p-greek-400-normal.woff2": "/g2i-trivia-app/static/media/press-start-2p-greek-400-normal.cf2420b5a5026b29ba84.woff2",
+    "index.html": "/g2i-trivia-app/index.html",
+    "main.0ced13f0.css.map": "/g2i-trivia-app/static/css/main.0ced13f0.css.map",
+    "main.ec6c6530.js.map": "/g2i-trivia-app/static/js/main.ec6c6530.js.map",
+    "787.9c73c628.chunk.js.map": "/g2i-trivia-app/static/js/787.9c73c628.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ced13f0.css",
+    "static/js/main.ec6c6530.js"
+  ]
+}
