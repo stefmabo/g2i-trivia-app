@@ -47,14 +47,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0",
-    "jest-fetch-mock": "^3.0.3"
-  },
-  "jest": {
-    "automock": false,
-    "resetMocks": false,
-    "setupFiles": [
-      "./setupJest.js"
-    ]
+    "gh-pages": "^4.0.0"
   }
 }

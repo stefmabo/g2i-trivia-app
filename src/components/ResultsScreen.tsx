@@ -15,7 +15,10 @@ const ResultsScreen = ({ results, onPlayAgain }: ResultsScreenPropsType) => {
   );
   return (
     <div className="result-screen">
-      <div className="you-score">{`You score: ${correctAnswers.length} / ${results.length}`}</div>
+      <div
+        className="you-score"
+        data-testid="you-score"
+      >{`You score: ${correctAnswers.length} / ${results.length}`}</div>
       {results.map(({ question, selectedAnswer, correctAnswer }) => {
         const isCorrect = selectedAnswer === correctAnswer;
         return (
