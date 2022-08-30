@@ -1,0 +1,49 @@
+#root {
+  padding: 7%;
+}
+
+.true-false-buttons {
+  text-align: center;
+  height: 50px;
+  margin-top: 100px;
+  button + button {
+    margin-left: 10px;
+  }
+}
+
+.question {
+  min-height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-screen {
+  margin: 100px;
+  text-align: center;
+
+  .welcome {
+    font-size: larger;
+    margin: 30px 0;
+  }
+
+  .can-you-score {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    i {
+      margin-left: 20px;
+    }
+  }
+}
+
+.result-screen {
+  margin-top: 20px;
+  .nes-container {
+    margin-bottom: 20px;
+  }
+  .you-score {
+    margin-bottom: 20px;
+  }
+}
